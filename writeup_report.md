@@ -134,7 +134,7 @@ Here is a visualization of the architecture (note: visualizing the architecture 
 
 ####3. Creation of the Training Set & Training Process
 
-Here is track 1 autonomous driving :
+Here is track 1 autonomous driving : (if you are going to test the same model with same conditions, I tested it on Windows using Anaconda starter kit for windows and NVIDIA Quadro 1000M GPU for running the simulator)
 
 [![Track 1](http://img.youtube.com/vi/1xKZqQ56_ys/0.jpg)](http://www.youtube.com/watch?v=1xKZqQ56_ys "Track 1")
 
