@@ -143,7 +143,7 @@ model.summary()
 ############################################################
 BATCH_SIZE=64
 EPOCHS=3
-nb_samples = int(8000/BATCH_SIZE)*BATCH_SIZE # samples per epoch
+nb_samples = int(4300/BATCH_SIZE)*BATCH_SIZE # samples per epoch
 Validate = False # whether to use validation set
 
 nb_valid = None  # number of validation samples
