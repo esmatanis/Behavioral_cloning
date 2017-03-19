@@ -4,7 +4,7 @@
 
 ---
 
-**Behavioral Cloning Project
+**Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
 In this project, we use deep learning to imitate human driving in a simulator. In particular, we utilize Keras libraries to build a convolutional neural network that predicts steering angle response in the simulator. 
@@ -25,7 +25,7 @@ Below we give description of the project starting from data praparaion and pre-p
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
 ---
-###Files Submitted & Code Quality
+### Files Submitted & Code Quality
 
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
