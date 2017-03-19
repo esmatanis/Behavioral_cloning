@@ -136,7 +136,7 @@ Here is a visualization of the architecture (note: visualizing the architecture 
 
 Here is track 1 autonomous driving :
 
-![](video.mp4)
+[![Track 1](http://img.youtube.com/vi/1xKZqQ56_ys/0.jpg)](http://www.youtube.com/watch?v=1xKZqQ56_ys "Track 1")
 
 To augment the data set, I did the following:
 
